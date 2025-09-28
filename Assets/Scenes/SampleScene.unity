@@ -376,7 +376,7 @@ MonoBehaviour:
   avoidee: {fileID: 1137406083}
   avoidRange: 10
   sampleArea: {x: 30, y: 30}
-  sampleRadius: 30
+  sampleRadius: 2
   visualize: 1
 --- !u!1 &215500539
 GameObject:
